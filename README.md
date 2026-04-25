@@ -1,4 +1,4 @@
-# Program-Template
+# AI-Readable Program Status System
 
 ## Overview
 
